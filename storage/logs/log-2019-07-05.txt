@@ -1,0 +1,5 @@
+ERROR - 2019-07-05 17:00:29 --> Severity: Core Warning --> Module 'mongodb' already loaded Unknown 0
+ERROR - 2019-07-05 17:00:39 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-05 17:00:39 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-05 17:00:39 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-05 17:00:39 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65

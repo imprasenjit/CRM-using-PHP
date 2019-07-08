@@ -1,0 +1,8 @@
+ERROR - 2019-07-04 16:08:51 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 16:08:51 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 16:08:51 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 16:08:51 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 17:07:32 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 17:07:32 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 17:07:32 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
+ERROR - 2019-07-04 17:07:32 --> Severity: Notice --> Undefined variable: qtype_id /var/www/html/crm/apps/views/ticketreports_view.php 65
